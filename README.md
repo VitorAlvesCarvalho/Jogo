@@ -4,6 +4,8 @@
 <br>
 <br>
 
+Link: https://jogo-hipsta.vercel.app/
+
 # Imagens do jogo:
 
 <br>
