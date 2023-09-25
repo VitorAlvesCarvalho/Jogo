@@ -2,8 +2,6 @@
 
 <h3>Desenvolvido utilizando p5.js durante a Imersão Game Dev da Alura.</h3>
 <br>
-<br>
-
 Link: https://jogo-hipsta.vercel.app/
 
 # Imagens do jogo:
